@@ -1,0 +1,14 @@
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\bin\Debug\net8.0\test github.exe
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\bin\Debug\net8.0\test github.deps.json
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\bin\Debug\net8.0\test github.runtimeconfig.json
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\bin\Debug\net8.0\test github.dll
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\bin\Debug\net8.0\test github.pdb
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.AssemblyInfoInputs.cache
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.AssemblyInfo.cs
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.csproj.CoreCompileInputs.cache
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.dll
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\refint\test github.dll
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.pdb
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\test github.genruntimeconfig.cache
+C:\Users\oliver.bafverholm\Desktop\App och webutvekling\test github\obj\Debug\net8.0\ref\test github.dll
